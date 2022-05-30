@@ -45,3 +45,9 @@ Technologies
 ⚫ Mobile-first workflow
 
 ___________________________
+
+Live preview
+
+https://htmlpreview.github.io/?https://github.com/karolinapol/passwordGenerator/blob/master/index.html
+
+___________________________
